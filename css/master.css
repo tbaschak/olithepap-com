@@ -360,7 +360,7 @@ body {
 }
 .introduction h1 {
     font-size: 48px;
-    color: #fff;
+    color: #000;
     font-weight: 200;
     line-height: 48px;
     margin-bottom: 18px
@@ -376,7 +376,7 @@ body {
 }
 .introduction .social_links a {
     text-decoration: none;
-    color: #fff;
+    color: #000;
     padding: 0 8px
 }
 .introduction .social_links li {
