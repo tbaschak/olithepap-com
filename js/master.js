@@ -9,8 +9,8 @@
                 get: "popular",
                 resolution: "thumbnail",
                 sortBy: "most-recent",
-                links: !0,
-                limit: 15,
+                links: !1,
+                limit: 30,
                 mock: !1
             };
             if (typeof e == "object")
@@ -716,8 +716,8 @@ jQuery(document).ready(function(e) {
             get: "user",
             target: "instagram_list",
             userId: 1240335488,
-            limit: 15,
-            accessToken: "2887486.467ede5.66bfc20c7d8e4f0dae27082834d9e698",
+            limit: 30,
+            accessToken: "1240335488.467ede5.be2ebbe738d04f5ab7e082710f5aab28",
             resolution: "low_resolution",
             after: function() {
                 e("#instagram_list").simplyScroll({
