@@ -10,7 +10,7 @@
                 resolution: "thumbnail",
                 sortBy: "most-recent",
                 links: 1,
-                limit: 30,
+                limit: 15,
                 mock: !1
             };
             if (typeof e == "object")
@@ -716,7 +716,7 @@ jQuery(document).ready(function(e) {
             get: "user",
             target: "instagram_list",
             userId: 1240335488,
-            limit: 30,
+            limit: 15,
             accessToken: "1240335488.467ede5.be2ebbe738d04f5ab7e082710f5aab28",
             resolution: "low_resolution",
             after: function() {
