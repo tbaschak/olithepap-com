@@ -9,7 +9,7 @@
                 get: "popular",
                 resolution: "thumbnail",
                 sortBy: "most-recent",
-                links: 1,
+                links: !0,
                 limit: 15,
                 mock: !1
             };
