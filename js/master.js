@@ -717,7 +717,7 @@ jQuery(document).ready(function(e) {
             target: "instagram_list",
             userId: 1240335488,
             limit: 15,
-            accessToken: "1240335488.467ede5.be2ebbe738d04f5ab7e082710f5aab28",
+            accessToken: "1240335488.2e54625.56a6c4243f2c4361bb8b8e72e555000b",
             resolution: "low_resolution",
             after: function() {
                 e("#instagram_list").simplyScroll({
